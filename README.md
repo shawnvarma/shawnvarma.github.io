@@ -8,7 +8,6 @@ This is where I share my *thoughts*, **projects**, and ***personal research***.
 
 ### Recent Projects
 
-- [Project Alpha](projects/project-alpha.md)
-- [Project Beta](projects/project-beta.md)
-- [Project Gamma](projects/project-gamma.md)
-
+- [Project Alpha](/projects/project-alpha.md)
+- [Project Beta](/projects/project-beta.md) 
+- [Project Gamma](/projects/project-gamma.md)
