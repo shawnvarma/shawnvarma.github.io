@@ -10,8 +10,3 @@ This is where I share my *thoughts*, **projects**, and ***personal research***.
 - [Project Beta](link-to-project)
 - [Project Gamma](link-to-project)
 
-#### Code Snippets
-
-```python
-def hello_world():
-    print("Welcome to my blog!")
