@@ -4,7 +4,7 @@
 
 ## Welcome to my personal blog
 
-This is where I share my *thoughts*, **projects**, and ***personal research***.
+test
 
 ### Recent Projects
 
