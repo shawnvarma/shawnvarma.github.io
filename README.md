@@ -1,10 +1,6 @@
-# My Personal Blog
+## Personal Projects Page
 
-[Home](index.html) | [Projects](projects.html) | [About](about.html)
-
-## Welcome to my personal blog
-
-test
+I'm interested in AI for medical imaging with a focus on segmentation, classification, and agentic workflows.
 
 ### Recent Projects
 
