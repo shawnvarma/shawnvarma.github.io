@@ -6,7 +6,7 @@ Feel free to reach out if you have any questions at varma3211@gmail.com
 
 ### Recent Projects
 
-- [Skull Defect Detection.pdf](projects/skull-defect-detection/assets/images/Skull%20Defect%20Detection%20Using%20CT%20Foundation%20Embeddings.pdf)
+- [Skull Defect Detection using CT Foundation Embeddings.pdf](projects/skull-defect-detection/assets/images/Skull%20Defect%20Detection%20Using%20CT%20Foundation%20Embeddings.pdf)
 
   Transfer learning using Google's CT Foundation model embeddings to detect the presence of craniectomy presence in 3D models derived from CT scans. Model achieved 64% AUC on      binary classification using just 100 sample scan images.
 - [VLM Scaffold for Skull Void Detection using MedGemma and Gemini 2.5 Flash](/projects/project-beta.md)
