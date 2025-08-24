@@ -8,6 +8,6 @@ test
 
 ### Recent Projects
 
-- [Project Alpha](/projects/project-alpha.md)
+- [Skull Defect Detection](projects/skull-defect-detection/) - Transfer Learning using CT Foundation embeddings
 - [Project Beta](/projects/project-beta.md) 
 - [Project Gamma](/projects/project-gamma.md)
