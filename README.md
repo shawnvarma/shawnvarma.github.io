@@ -16,4 +16,6 @@ Feel free to reach out if you have any questions at varma3211@gmail.com
 - [AI Agent Driven Medical Image Analyzer](/projects/project-gamma.md)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3IaLOGeHimc?si=H4zz_pBKlvzXSA-P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-Created application for generating an initial scan report and anatomy identifier tool built on Claude for Computer Use (Anthropic) and SAM2 (Meta Segment Anything 2). Developed prompting strategy for multimodal large language model (Claude Sonnet 3.5) and optimized interface considering UI for agent systems.
+  Created application for generating an initial scan report and anatomy identifier tool built on Claude for Computer Use (Anthropic) and SAM2 (Meta Segment Anything 2).            Developed prompting strategy for multimodal large language model (Claude Sonnet 3.5) and optimized interface considering UI for agent systems.     
+
+  
