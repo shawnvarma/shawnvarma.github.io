@@ -4,7 +4,7 @@ I'm interested in AI for medical imaging with a focus on segmentation, classific
 
 Feel free to reach out if you have any questions at varma3211@gmail.com
 
-### Recent Projects
+### Recent Work
 
 - [Skull Defect Detection using CT Foundation Embeddings.pdf](projects/skull-defect-detection/assets/images/Skull%20Defect%20Detection%20Using%20CT%20Foundation%20Embeddings.pdf)
 
