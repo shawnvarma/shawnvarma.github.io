@@ -36,4 +36,4 @@ Lastly the plot below is based on majority vote for the models getting both the 
  
 Gemini Flash ends up being the clear winner here when both tasks are passed to it for analysis.
 
-One thing I have noticed in my own experience of trying to test out VLMs is that potential end users can be really put off by models getting "the easy things" wrong. Being able to consistently get the correct anatomic side and presence of obvious defects fall into that category of something that a new engineer or care provider could quickly pick up on. A scaffold like the one I described can help increase adoption of models by improving the accuracy of these types of tasks at the prompt level
+One thing I have noticed in my own experience of trying to test out VLMs is that potential end users can be really put off by models getting "the easy things" wrong. Being able to consistently get the correct anatomic side and presence of obvious defects fall into that category of something that a new engineer or care provider could quickly pick up on. A scaffold like the one I described can help increase adoption of models by improving the accuracy of these types of tasks at the prompt level.
