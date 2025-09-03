@@ -25,7 +25,7 @@ Feel free to reach out if you have any questions at varma3211@gmail.com
 
   <iframe width="560" height="315" src="https://www.youtube.com/embed/5gOox5fO0mM?si=wfPcT-Sj_pauq4pN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-  Created user interface and mask propagation script enabling user to scroll through video sequence and improve SAM2 mask with additional selection points. This model was used for video editing tasks and also showed promise in tumor segmentation when the DICOM is loaded in as a video sequence.
+  Designed user interface and created mask propagation script enabling user to scroll through video sequence and improve SAM2 mask with additional selection points. This model was used for video editing tasks and also showed promise in tumor segmentation when the DICOM is loaded in as a video sequence.
 
 - **3D U-Net Cranial Defect Reconstruction**
    
