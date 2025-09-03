@@ -21,6 +21,12 @@ Feel free to reach out if you have any questions at varma3211@gmail.com
   
   Created application for generating an initial scan report and anatomy identifier tool built on Claude for Computer Use (Anthropic) and SAM2 (Meta Segment Anything 2).            Developed prompting strategy for multimodal large language model (Claude Sonnet 3.5) and optimized interface considering UI for agent systems. Containerized the agent with Docker on a Windows machine running a Linux environment.    
 
+- **SAM2 Point Based Segmentation for Tumor Segmentation**
+
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/5gOox5fO0mM?si=wfPcT-Sj_pauq4pN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+  Created user interface and mask propagation script enabling user to scroll through video sequence and improve SAM2 mask with additional selection points. This model was used for video editing tasks and also showed promise in tumor segmentation when the DICOM is loaded in as a video sequence.
+
 - **3D U-Net Cranial Defect Reconstruction**
    
    <iframe width="560" height="315" src="https://www.youtube.com/embed/J0xx4bCd_r4?si=tOuHZ5ltLXMtA8SR&amp;start=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
