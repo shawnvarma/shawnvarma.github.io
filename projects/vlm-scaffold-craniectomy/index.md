@@ -24,7 +24,7 @@ Gemini Flash becomes significantly more reliable and given its low cost to run g
  
 I also looked at the task of defect classification (is a defect present yes/no). These metrics were a bit less clear because it's not always obvious exactly what is being referred to as a defect from the model's text output so there is false positive risk. For example, we cannot tell from text alone if the defect being called out is the normal anatomy like the ear canal or thin bone which did not render from thresholding.
 
-![Accuracy Comparison](<assets/images/side accuracy comparison.png>)
+![Defect Present](<assets/images/binary defect classification.png>)
  
 The results were consistent with and without scaffolding with a decrease in performance for Gemini Flash with scaffolding. 
 
@@ -32,7 +32,7 @@ MedGemma also struggled with true negatives. For all 4 cases where no defect was
 
 Lastly the plot below is based on majority vote for the models getting both the defect present being correct and for the defect side being correct.
 
-![Combined Detection](<assets/images/defect and side present.png>)
+![Side Accuracy](<assets/images/anatomical side accuracy bo5.png>)
  
 Gemini Flash ends up being the clear winner here when both tasks are passed to it for analysis.
 
