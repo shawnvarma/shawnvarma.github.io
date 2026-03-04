@@ -6,6 +6,10 @@ Feel free to reach out if you have any questions at varma3211@gmail.com
 
 ### Recent Work
 
+- **MedGemma 1.5 for Surgical Navigation** - [Project Page]
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yErP1TeWgu0?si=Dqb12k-MHiPVdgEg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+Created an on device surgical assistant which aids surgeons by providing tissue classification and trajectory based feedback on their tumor resection progress. To improve upon MedGemma 1.5's medical image interpretation capabilities, I grounded the model using data sources including precalculated measurements (from mask data), anatomy position (using a brain atlas), and anatomic classifications. I used two fine-tuning approaches, one was image based and took into account the surgeon's crosshair position for feedback and the second was to use verifiable distilled trajectory traces from Gemini 3 Flash to improve the language and ground truth adherence. All training and inference was done on a consumer GPU (NVIDIA RTX 4080, 16GB VRAM).
+
 - **VLM Scaffold for Craniectomy Localization** - [Project Page](projects/vlm-scaffold-craniectomy/)
 
   <iframe width="560" height="315" src="https://www.youtube.com/embed/tA66Vf8wKC4?si=tQ7FNQADt4ikd2Nu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
