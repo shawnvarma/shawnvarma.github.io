@@ -4,7 +4,7 @@ I'm interested in AI for medical imaging with a focus on segmentation, classific
 
 Feel free to reach out if you have any questions at varma3211@gmail.com
 
-### Recent Work
+### Recent Work 
 
 - **MedGemma 1.5 for Surgical Navigation** - [Technical Report PDF](projects/medgemma-surgical-navigation/MedGemma%201.5%20Surgical%20Navigation.pdf) | [Kaggle](https://www.kaggle.com/competitions/med-gemma-impact-challenge/writeups/new-writeup-1771785777789) | [GitHub](https://github.com/shawnvarma/MedGemma-1.5-Surgical-Navigation)
 
