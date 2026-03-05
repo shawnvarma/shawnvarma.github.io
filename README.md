@@ -6,11 +6,11 @@ Feel free to reach out if you have any questions at varma3211@gmail.com
 
 ### Recent Work
 
-- **MedGemma 1.5 for Surgical Navigation** - [Technical Report PDF](projects/medgemma-surgical-navigation/MedGemma%201.5%20Surgical%20Navigation.pdf)
+- **MedGemma 1.5 for Surgical Navigation** - [Technical Report PDF](projects/medgemma-surgical-navigation/MedGemma%201.5%20Surgical%20Navigation.pdf) | [Kaggle](https://www.kaggle.com/competitions/med-gemma-impact-challenge/writeups/new-writeup-1771785777789) | [GitHub](https://github.com/shawnvarma/MedGemma-1.5-Surgical-Navigation)
 
   <iframe width="560" height="315" src="https://www.youtube.com/embed/yErP1TeWgu0?si=Dqb12k-MHiPVdgEg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-  Created an on device surgical assistant which aids surgeons by providing tissue classification and trajectory based feedback on their tumor resection progress. To improve upon MedGemma 1.5's medical image interpretation capabilities, I grounded the model using data sources including precalculated measurements (from mask data), anatomy position (using a brain atlas), and anatomic classifications. I used two fine-tuning approaches, one was image based and took into account the surgeon's crosshair position for feedback and the second was to use verifiable distilled trajectory traces from Gemini 3 Flash to improve the language and ground truth adherence. All training and inference was done on a consumer GPU (NVIDIA RTX 4080, 16GB VRAM).
+   Created an on device surgical assistant for the [MedGemma Impact Challenge](https://www.kaggle.com/competitions/med-gemma-impact-challenge/overview) which aids surgeons by providing tissue classification and trajectory based feedback on their tumor resection progress. To improve upon MedGemma 1.5's medical image interpretation capabilities, I grounded the model using data sources including precalculated measurements (from mask data), anatomy position (using a brain atlas), and anatomic classifications. I used two fine-tuning approaches, one was image based and took into account the surgeon's crosshair position for feedback and the second was to use verifiable distilled trajectory traces from Gemini 3 Flash to improve the language and ground truth adherence. All training and inference was done on a consumer GPU (NVIDIA RTX 4080, 16GB VRAM).
 
 - **VLM Scaffold for Craniectomy Localization** - [Project Page](projects/vlm-scaffold-craniectomy/)
 
