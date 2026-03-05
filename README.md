@@ -6,7 +6,7 @@ Feel free to reach out if you have any questions at varma3211@gmail.com
 
 ### Recent Work 
 
-- **MedGemma 1.5 for Surgical Navigation** - [Technical Report PDF](projects/medgemma-surgical-navigation/MedGemma%201.5%20Surgical%20Navigation.pdf) | [Kaggle](https://www.kaggle.com/competitions/med-gemma-impact-challenge/writeups/new-writeup-1771785777789) | [GitHub](https://github.com/shawnvarma/MedGemma-1.5-Surgical-Navigation)
+- **MedGemma 1.5 for Surgical Navigation** - [Technical Report PDF](projects/medgemma-surgical-navigation/MedGemma%201.5%20Surgical%20Navigation.pdf) · [Kaggle](https://www.kaggle.com/competitions/med-gemma-impact-challenge/writeups/new-writeup-1771785777789) · [GitHub](https://github.com/shawnvarma/MedGemma-1.5-Surgical-Navigation)
 
   <iframe width="560" height="315" src="https://www.youtube.com/embed/yErP1TeWgu0?si=Dqb12k-MHiPVdgEg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
