@@ -1,0 +1,109 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Peru Trip</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@500;600&family=Playfair+Display:wght@800&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
+<link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.css">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div class="bg" aria-hidden="true"></div>
+<div class="top">
+  <header>
+    <h1><a href="#/" title="Home">Peru Trip</a></h1>
+    <nav>
+      <button id="tab-days">Days</button>
+      <button id="tab-map">Trip map</button>
+      <button id="tab-elev">Elevation</button>
+      <button id="tab-gallery">Gallery</button>
+    </nav>
+    <span id="savestate"></span>
+    <div class="toggle" id="viewtoggle" hidden>
+      <button id="v-single">Single</button>
+      <button id="v-grid">Grid</button>
+    </div>
+  </header>
+  <div id="timeline"></div>
+</div>
+
+<main id="days"></main>
+
+<main id="gallery" hidden></main>
+
+<section id="tripmap" hidden><div id="bigmap"></div></section>
+
+<section id="elev" hidden>
+  <h2>The climb</h2>
+  <p class="sub">Every located photo, in time order. Dashed lines mark Cusco and Machu Picchu.</p>
+  <div id="elev-chart"></div>
+</section>
+
+<section id="day" hidden>
+  <div id="single">
+    <div class="viewer">
+      <div class="lb-photo" id="stage">
+        <button class="nav prev" aria-label="Previous">&#8249;</button>
+        <img id="lb-img" alt="">
+        <video id="lb-video" hidden></video>
+        <button class="nav next" aria-label="Next">&#8250;</button>
+        <div class="tools">
+          <button id="b-zoom" title="Zoom (z) — click photo, then move mouse to pan" aria-label="Zoom">
+            <svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><circle cx="10" cy="10" r="6.5"/><path d="M15 15l6 6M10 7v6M7 10h6"/></svg>
+          </button>
+          <button id="b-full" title="Full screen (f)" aria-label="Full screen">
+            <svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 9V4h5M20 9V4h-5M4 15v5h5M20 15v5h-5"/></svg>
+          </button>
+        </div>
+      </div>
+      <div id="strip"></div>
+    </div>
+    <aside class="lb-info">
+      <h2 id="i-when"></h2>
+      <p class="sub" id="i-sub"></p>
+      <div class="stats" id="i-stats"></div>
+      <div id="i-callout"></div>
+      <div id="note-wrap">
+        <h3>Notes</h3>
+        <textarea id="note" rows="3" aria-label="Notes"></textarea>
+      </div>
+      <h3>Where</h3>
+      <div id="i-map"></div>
+      <p class="hint" id="i-maphint"></p>
+      <div class="links" id="i-links"></div>
+      <h3>Camera</h3>
+      <p class="sub" id="i-cam"></p>
+    </aside>
+  </div>
+
+  <div id="grid" hidden></div>
+</section>
+
+<div id="gl" hidden>
+  <div id="gl-bg"><div></div></div>
+  <img id="gl-img" alt="">
+  <video id="gl-video" hidden></video>
+  <div class="gl-ui">
+    <button id="gl-close" class="gl-btn gl-x" aria-label="Close">&times;</button>
+    <a id="gl-details" class="gl-details" href="#/">Details &rarr;</a>
+    <button id="gl-prev" class="gl-btn gl-nav gl-prev" aria-label="Previous">&#8249;</button>
+    <button id="gl-next" class="gl-btn gl-nav gl-next" aria-label="Next">&#8250;</button>
+    <div class="gl-foot"><div id="gl-cap"></div><div id="gl-count"></div></div>
+  </div>
+</div>
+
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+<script src="https://unpkg.com/leaflet.markercluster@1.5.3/dist/leaflet.markercluster.js"></script>
+<script src="js/data.js"></script>
+<script src="js/background.js"></script>
+<script src="js/video.js"></script>
+<script src="js/maps.js"></script>
+<script src="js/charts.js"></script>
+<script src="js/app.js"></script>
+<script src="js/lightbox.js"></script>
+</body>
+</html>
