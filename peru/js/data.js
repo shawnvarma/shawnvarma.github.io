@@ -173,12 +173,27 @@ function lookupPlace(g) {
   geoChain = job.then(() => {}, () => {});
   return job;
 }
+// A day is labelled with the place most of its photos share (sampled evenly across the day),
+// so a travel day takes the name of where it was mostly spent, not where it started.
 async function resolveDayPlaces() {
   for (const k of dayKeys) {
-    const g = days[k].map(gpsOf).find(Boolean);
-    if (!g) { delete autoPlaces[k]; continue; }
-    const r = await lookupPlace(g);
-    if (r) autoPlaces[k] = r; else delete autoPlaces[k];
+    const located = days[k].map(gpsOf).filter(Boolean);
+    if (!located.length) { delete autoPlaces[k]; continue; }
+    const n = Math.min(7, located.length), mid = Math.floor(n / 2);
+    const tally = new Map();
+    let middle = null;
+    for (let i = 0; i < n; i++) {
+      const r = await lookupPlace(located[Math.floor(((i + 0.5) * located.length) / n)]);
+      if (!r) continue;
+      const t = tally.get(r.place) || { r, n: 0 };
+      t.n++;
+      tally.set(r.place, t);
+      if (i === mid) middle = r.place;
+    }
+    const top = Math.max(0, ...[...tally.values()].map((t) => t.n));
+    const best = [...tally.values()].filter((t) => t.n === top);
+    const pick = best.find((t) => t.r.place === middle) || best[0];
+    if (pick) autoPlaces[k] = pick.r; else delete autoPlaces[k];
     document.dispatchEvent(new Event("places-ready"));
   }
 }
