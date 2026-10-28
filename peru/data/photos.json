@@ -11,7 +11,7 @@
   "offset": "-05:00",
   "gps": {
    "lat": -12.1219,
-   "lon": -77.0267,
+   "lon": -77.026703,
    "alt": 109.5
   },
   "camera": "Apple iPhone 16 Pro",
@@ -32,8 +32,8 @@
   "taken": "2026-10-18T09:19:27",
   "offset": null,
   "gps": {
-   "lat": -12.1433,
-   "lon": -77.0234,
+   "lat": -12.143344,
+   "lon": -77.023365,
    "alt": 70.5
   },
   "camera": "RICOH IMAGING COMPANY, LTD. RICOH GR III",
@@ -54,8 +54,8 @@
   "taken": "2026-10-18T09:20:55",
   "offset": null,
   "gps": {
-   "lat": -12.1443,
-   "lon": -77.0246,
+   "lat": -12.144295,
+   "lon": -77.024634,
    "est": true,
    "estMin": 0.5
   },
@@ -77,8 +77,8 @@
   "taken": "2026-10-18T09:24:58",
   "offset": null,
   "gps": {
-   "lat": -12.1449,
-   "lon": -77.0245,
+   "lat": -12.144894,
+   "lon": -77.024486,
    "alt": 58.3
   },
   "camera": "RICOH IMAGING COMPANY, LTD. RICOH GR III",
@@ -99,8 +99,8 @@
   "taken": "2026-10-18T09:25:15",
   "offset": null,
   "gps": {
-   "lat": -12.1456,
-   "lon": -77.0244,
+   "lat": -12.145599,
+   "lon": -77.024419,
    "alt": 60.5
   },
   "camera": "RICOH IMAGING COMPANY, LTD. RICOH GR III",
@@ -121,7 +121,7 @@
   "taken": "2026-10-18T09:26:14",
   "offset": "-05:00",
   "gps": {
-   "lat": -12.1456,
+   "lat": -12.145633,
    "lon": -77.0244,
    "alt": 60.8
   },
@@ -143,8 +143,8 @@
   "taken": "2026-10-18T09:33:35",
   "offset": null,
   "gps": {
-   "lat": -12.1456,
-   "lon": -77.0244,
+   "lat": -12.145599,
+   "lon": -77.024419,
    "alt": 60.5
   },
   "camera": "RICOH IMAGING COMPANY, LTD. RICOH GR III",
@@ -165,8 +165,8 @@
   "taken": "2026-10-18T09:39:09",
   "offset": null,
   "gps": {
-   "lat": -12.1456,
-   "lon": -77.0244,
+   "lat": -12.145599,
+   "lon": -77.024419,
    "est": true,
    "estMin": 4.1
   },
@@ -188,8 +188,8 @@
   "taken": "2026-10-18T09:39:51",
   "offset": null,
   "gps": {
-   "lat": -12.1456,
-   "lon": -77.0244,
+   "lat": -12.145599,
+   "lon": -77.024419,
    "est": true,
    "estMin": 4.8
   },
@@ -211,8 +211,8 @@
   "taken": "2026-10-18T09:43:09",
   "offset": null,
   "gps": {
-   "lat": -12.1475,
-   "lon": -77.0235,
+   "lat": -12.147459,
+   "lon": -77.023535,
    "est": true,
    "estMin": 6.5
   },
@@ -234,8 +234,8 @@
   "taken": "2026-10-18T09:53:03",
   "offset": null,
   "gps": {
-   "lat": -12.1489,
-   "lon": -77.0228,
+   "lat": -12.148948,
+   "lon": -77.022779,
    "alt": 59.8
   },
   "camera": "RICOH IMAGING COMPANY, LTD. RICOH GR III",
@@ -256,8 +256,8 @@
   "taken": "2026-10-18T09:53:30",
   "offset": null,
   "gps": {
-   "lat": -12.1491,
-   "lon": -77.0226,
+   "lat": -12.149097,
+   "lon": -77.022632,
    "alt": 59.1
   },
   "camera": "RICOH IMAGING COMPANY, LTD. RICOH GR III",
@@ -278,8 +278,8 @@
   "taken": "2026-10-18T09:55:26",
   "offset": null,
   "gps": {
-   "lat": -12.1491,
-   "lon": -77.0226,
+   "lat": -12.149097,
+   "lon": -77.022632,
    "alt": 59.1
   },
   "camera": "RICOH IMAGING COMPANY, LTD. RICOH GR III",
@@ -300,8 +300,8 @@
   "taken": "2026-10-18T09:55:40",
   "offset": null,
   "gps": {
-   "lat": -12.1492,
-   "lon": -77.0225,
+   "lat": -12.14916,
+   "lon": -77.022483,
    "alt": 60.5
   },
   "camera": "RICOH IMAGING COMPANY, LTD. RICOH GR III",
@@ -322,8 +322,8 @@
   "taken": "2026-10-18T11:06:20",
   "offset": null,
   "gps": {
-   "lat": -12.1125,
-   "lon": -77.0339,
+   "lat": -12.112474,
+   "lon": -77.033898,
    "est": true,
    "estMin": 2.2
   },
@@ -345,8 +345,8 @@
   "taken": "2026-10-18T11:08:35",
   "offset": null,
   "gps": {
-   "lat": -12.1125,
-   "lon": -77.0339,
+   "lat": -12.112474,
+   "lon": -77.033898,
    "alt": 91.2
   },
   "camera": "RICOH IMAGING COMPANY, LTD. RICOH GR III",
@@ -367,8 +367,8 @@
   "taken": "2026-10-18T11:15:40",
   "offset": null,
   "gps": {
-   "lat": -12.1118,
-   "lon": -77.0331,
+   "lat": -12.111787,
+   "lon": -77.033081,
    "alt": 90.5
   },
   "camera": "RICOH IMAGING COMPANY, LTD. RICOH GR III",
@@ -389,8 +389,8 @@
   "taken": "2026-10-18T11:29:05",
   "offset": null,
   "gps": {
-   "lat": -12.0998,
-   "lon": -77.0345,
+   "lat": -12.09983,
+   "lon": -77.034472,
    "est": true,
    "estMin": 1.4
   },
@@ -412,8 +412,8 @@
   "taken": "2026-10-18T11:30:40",
   "offset": null,
   "gps": {
-   "lat": -12.0986,
-   "lon": -77.0346,
+   "lat": -12.098628,
+   "lon": -77.034615,
    "alt": 102.6
   },
   "camera": "RICOH IMAGING COMPANY, LTD. RICOH GR III",
@@ -434,8 +434,8 @@
   "taken": "2026-10-18T11:34:35",
   "offset": "-05:00",
   "gps": {
-   "lat": -12.0986,
-   "lon": -77.0346,
+   "lat": -12.09865,
+   "lon": -77.034622,
    "alt": 101.4
   },
   "camera": "Apple iPhone 16 Pro",
@@ -456,8 +456,8 @@
   "taken": "2026-10-18T11:35:16",
   "offset": null,
   "gps": {
-   "lat": -12.0984,
-   "lon": -77.0345,
+   "lat": -12.098426,
+   "lon": -77.034469,
    "alt": 103.6
   },
   "camera": "RICOH IMAGING COMPANY, LTD. RICOH GR III",
@@ -478,8 +478,8 @@
   "taken": "2026-10-18T11:35:43",
   "offset": null,
   "gps": {
-   "lat": -12.0986,
-   "lon": -77.0347,
+   "lat": -12.098552,
+   "lon": -77.03473,
    "alt": 103.2
   },
   "camera": "RICOH IMAGING COMPANY, LTD. RICOH GR III",
@@ -500,8 +500,8 @@
   "taken": "2026-10-18T11:38:34",
   "offset": null,
   "gps": {
-   "lat": -12.0986,
-   "lon": -77.0347,
+   "lat": -12.098552,
+   "lon": -77.03473,
    "alt": 103.2
   },
   "camera": "RICOH IMAGING COMPANY, LTD. RICOH GR III",
@@ -522,8 +522,8 @@
   "taken": "2026-10-18T11:39:44",
   "offset": null,
   "gps": {
-   "lat": -12.0986,
-   "lon": -77.0347,
+   "lat": -12.098552,
+   "lon": -77.03473,
    "alt": 103.2
   },
   "camera": "RICOH IMAGING COMPANY, LTD. RICOH GR III",
@@ -544,8 +544,8 @@
   "taken": "2026-10-18T11:58:31",
   "offset": null,
   "gps": {
-   "lat": -12.1017,
-   "lon": -77.0354,
+   "lat": -12.101732,
+   "lon": -77.035376,
    "alt": 102.4
   },
   "camera": "RICOH IMAGING COMPANY, LTD. RICOH GR III",
@@ -566,8 +566,8 @@
   "taken": "2026-10-18T15:49:24",
   "offset": "-05:00",
   "gps": {
-   "lat": -12.1221,
-   "lon": -77.0267,
+   "lat": -12.122086,
+   "lon": -77.026725,
    "alt": 92.0
   },
   "camera": "Apple iPhone 16 Pro",
@@ -588,8 +588,8 @@
   "taken": "2026-10-18T18:53:31",
   "offset": "-05:00",
   "gps": {
-   "lat": -12.1224,
-   "lon": -77.0292,
+   "lat": -12.122353,
+   "lon": -77.029183,
    "alt": 89.4
   },
   "camera": "Apple iPhone 16 Pro",
@@ -610,8 +610,8 @@
   "taken": "2026-10-18T19:08:54",
   "offset": "-05:00",
   "gps": {
-   "lat": -12.1222,
-   "lon": -77.0266,
+   "lat": -12.122239,
+   "lon": -77.02655,
    "alt": 93.9
   },
   "camera": "Apple iPhone 16 Pro",
@@ -632,8 +632,8 @@
   "taken": "2026-10-19T07:10:54",
   "offset": "-05:00",
   "gps": {
-   "lat": -12.1222,
-   "lon": -77.0266,
+   "lat": -12.122239,
+   "lon": -77.02655,
    "alt": 92.8
   },
   "camera": "Apple iPhone 16 Pro",
@@ -654,8 +654,8 @@
   "taken": "2026-10-19T13:10:11",
   "offset": "-05:00",
   "gps": {
-   "lat": -13.5223,
-   "lon": -71.9874,
+   "lat": -13.522344,
+   "lon": -71.987403,
    "alt": 3423.3
   },
   "camera": "Apple iPhone 16 Pro",
@@ -676,8 +676,8 @@
   "taken": "2026-10-19T13:59:35",
   "offset": "-05:00",
   "gps": {
-   "lat": -13.3953,
-   "lon": -72.0502,
+   "lat": -13.395333,
+   "lon": -72.050247,
    "alt": 3731.0
   },
   "camera": "Apple iPhone 16 Pro",
@@ -698,8 +698,8 @@
   "taken": "2026-10-19T14:00:22",
   "offset": "-05:00",
   "gps": {
-   "lat": -13.3954,
-   "lon": -72.0501,
+   "lat": -13.395361,
+   "lon": -72.050081,
    "alt": 3732.8
   },
   "camera": "Apple iPhone 16 Pro",
@@ -720,8 +720,8 @@
   "taken": "2026-10-19T14:01:09",
   "offset": null,
   "gps": {
-   "lat": -13.3954,
-   "lon": -72.0501,
+   "lat": -13.395361,
+   "lon": -72.050081,
    "est": true,
    "estMin": 0.8
   },
@@ -743,8 +743,8 @@
   "taken": "2026-10-19T14:09:35",
   "offset": null,
   "gps": {
-   "lat": -13.3954,
-   "lon": -72.0501,
+   "lat": -13.395384,
+   "lon": -72.050092,
    "est": true,
    "estMin": 9.2
   },
@@ -766,8 +766,8 @@
   "taken": "2026-10-19T14:16:12",
   "offset": null,
   "gps": {
-   "lat": -13.3954,
-   "lon": -72.0501,
+   "lat": -13.395384,
+   "lon": -72.050092,
    "est": true,
    "estMin": 15.8
   },
@@ -789,8 +789,8 @@
   "taken": "2026-10-19T14:29:07",
   "offset": null,
   "gps": {
-   "lat": -13.3954,
-   "lon": -72.0501,
+   "lat": -13.395408,
+   "lon": -72.050103,
    "est": true,
    "estMin": 3.5
   },
@@ -812,8 +812,8 @@
   "taken": "2026-10-19T14:32:26",
   "offset": null,
   "gps": {
-   "lat": -13.3954,
-   "lon": -72.0501,
+   "lat": -13.395408,
+   "lon": -72.050103,
    "est": true,
    "estMin": 0.2
   },
@@ -835,8 +835,8 @@
   "taken": "2026-10-19T14:32:45",
   "offset": null,
   "gps": {
-   "lat": -13.3954,
-   "lon": -72.0501,
+   "lat": -13.395408,
+   "lon": -72.050103,
    "est": true,
    "estMin": 0.1
   },
@@ -858,8 +858,8 @@
   "taken": "2026-10-19T14:58:20",
   "offset": null,
   "gps": {
-   "lat": -13.391,
-   "lon": -72.0482,
+   "lat": -13.391046,
+   "lon": -72.048159,
    "est": true,
    "estMin": 6.2
   },
@@ -881,8 +881,8 @@
   "taken": "2026-10-19T15:00:11",
   "offset": null,
   "gps": {
-   "lat": -13.3905,
-   "lon": -72.0477,
+   "lat": -13.390492,
+   "lon": -72.047683,
    "est": true,
    "estMin": 4.4
   },
@@ -904,8 +904,8 @@
   "taken": "2026-10-19T15:04:33",
   "offset": "-05:00",
   "gps": {
-   "lat": -13.3905,
-   "lon": -72.0477,
+   "lat": -13.390492,
+   "lon": -72.047683,
    "alt": 3749.3
   },
   "camera": "Apple iPhone 16 Pro",
@@ -926,8 +926,8 @@
   "taken": "2026-10-19T15:05:07",
   "offset": null,
   "gps": {
-   "lat": -13.3905,
-   "lon": -72.0477,
+   "lat": -13.390492,
+   "lon": -72.047683,
    "est": true,
    "estMin": 0.6
   },
@@ -949,8 +949,8 @@
   "taken": "2026-10-19T15:06:12",
   "offset": null,
   "gps": {
-   "lat": -13.3905,
-   "lon": -72.0477,
+   "lat": -13.390492,
+   "lon": -72.047683,
    "est": true,
    "estMin": 1.6
   },
@@ -972,8 +972,8 @@
   "taken": "2026-10-19T15:58:17",
   "offset": null,
   "gps": {
-   "lat": -13.3347,
-   "lon": -72.1926,
+   "lat": -13.33474,
+   "lon": -72.19256,
    "est": true,
    "estMin": 4.3
   },
@@ -995,8 +995,8 @@
   "taken": "2026-10-19T15:58:22",
   "offset": null,
   "gps": {
-   "lat": -13.3346,
-   "lon": -72.1926,
+   "lat": -13.334645,
+   "lon": -72.192603,
    "est": true,
    "estMin": 4.2
   },
@@ -1018,8 +1018,8 @@
   "taken": "2026-10-19T16:02:35",
   "offset": null,
   "gps": {
-   "lat": -13.3299,
-   "lon": -72.1948,
+   "lat": -13.329862,
+   "lon": -72.194774,
    "alt": 3512.1
   },
   "camera": "RICOH IMAGING COMPANY, LTD. RICOH GR III",
@@ -1040,8 +1040,8 @@
   "taken": "2026-10-19T16:57:45",
   "offset": "-05:00",
   "gps": {
-   "lat": -13.3076,
-   "lon": -72.1144,
+   "lat": -13.307622,
+   "lon": -72.114372,
    "alt": 2870.3
   },
   "camera": "Apple iPhone 16 Pro",
@@ -1062,8 +1062,8 @@
   "taken": "2026-10-19T17:17:10",
   "offset": "-05:00",
   "gps": {
-   "lat": -13.3076,
-   "lon": -72.1144,
+   "lat": -13.307625,
+   "lon": -72.114364,
    "alt": 2870.3
   },
   "camera": "Apple iPhone 16 Pro",
@@ -1084,8 +1084,8 @@
   "taken": "2026-10-19T17:17:35",
   "offset": "-05:00",
   "gps": {
-   "lat": -13.3076,
-   "lon": -72.1144,
+   "lat": -13.307564,
+   "lon": -72.114358,
    "alt": 2870.3
   },
   "camera": "Apple iPhone 16 Pro",
@@ -1106,8 +1106,8 @@
   "taken": "2026-10-19T17:19:51",
   "offset": "-05:00",
   "gps": {
-   "lat": -13.3076,
-   "lon": -72.1144,
+   "lat": -13.307611,
+   "lon": -72.114372,
    "alt": 2868.3
   },
   "camera": "Apple iPhone 16 Pro",
@@ -1128,8 +1128,8 @@
   "taken": "2026-10-20T04:47:05",
   "offset": null,
   "gps": {
-   "lat": -13.2633,
-   "lon": -72.27,
+   "lat": -13.263308,
+   "lon": -72.27005,
    "est": true,
    "estMin": 1.2
   },
@@ -1151,7 +1151,7 @@
   "taken": "2026-10-20T06:45:00",
   "offset": null,
   "gps": {
-   "lat": -13.1544,
+   "lat": -13.154414,
    "lon": -72.526,
    "est": true,
    "estMin": 3.3
@@ -1199,8 +1199,8 @@
   "taken": "2026-10-20T06:49:25",
   "offset": null,
   "gps": {
-   "lat": -13.1543,
-   "lon": -72.5264,
+   "lat": -13.154317,
+   "lon": -72.526355,
    "alt": 2041.5
   },
   "camera": "RICOH IMAGING COMPANY, LTD. RICOH GR III",
@@ -1221,8 +1221,8 @@
   "taken": "2026-10-20T06:49:45",
   "offset": null,
   "gps": {
-   "lat": -13.1543,
-   "lon": -72.5264,
+   "lat": -13.154317,
+   "lon": -72.526355,
    "alt": 2041.5
   },
   "camera": "RICOH IMAGING COMPANY, LTD. RICOH GR III",
@@ -1268,8 +1268,8 @@
   "taken": "2026-10-20T07:56:28",
   "offset": null,
   "gps": {
-   "lat": -13.1658,
-   "lon": -72.5432,
+   "lat": -13.165808,
+   "lon": -72.543151,
    "alt": 2431.2
   },
   "camera": "RICOH IMAGING COMPANY, LTD. RICOH GR III",
@@ -1290,8 +1290,8 @@
   "taken": "2026-10-20T08:00:19",
   "offset": "-05:00",
   "gps": {
-   "lat": -13.1651,
-   "lon": -72.5436,
+   "lat": -13.165133,
+   "lon": -72.543556,
    "alt": 2444.5
   },
   "camera": "Apple iPhone 16 Pro",
@@ -1312,8 +1312,8 @@
   "taken": "2026-10-20T08:01:57",
   "offset": "-05:00",
   "gps": {
-   "lat": -13.1652,
-   "lon": -72.5436,
+   "lat": -13.165208,
+   "lon": -72.543572,
    "alt": 2449.2
   },
   "camera": "Apple iPhone 16 Pro",
@@ -1334,8 +1334,8 @@
   "taken": "2026-10-20T08:22:33",
   "offset": "-05:00",
   "gps": {
-   "lat": -13.1665,
-   "lon": -72.544,
+   "lat": -13.166469,
+   "lon": -72.544031,
    "alt": 2504.1
   },
   "camera": "Apple iPhone 16 Pro",
@@ -1356,8 +1356,8 @@
   "taken": "2026-10-20T08:28:42",
   "offset": "-05:00",
   "gps": {
-   "lat": -13.1659,
-   "lon": -72.5452,
+   "lat": -13.165892,
+   "lon": -72.545228,
    "alt": 2500.8
   },
   "camera": "Apple iPhone 16 Pro",
@@ -1378,8 +1378,8 @@
   "taken": "2026-10-20T08:28:49",
   "offset": "-05:00",
   "gps": {
-   "lat": -13.1659,
-   "lon": -72.5452,
+   "lat": -13.165903,
+   "lon": -72.54525,
    "alt": 2501.4
   },
   "camera": "Apple iPhone 16 Pro",
@@ -1400,8 +1400,8 @@
   "taken": "2026-10-20T08:33:11",
   "offset": "-05:00",
   "gps": {
-   "lat": -13.1659,
-   "lon": -72.5453,
+   "lat": -13.165897,
+   "lon": -72.545303,
    "alt": 2514.3
   },
   "camera": "Apple iPhone 15",
@@ -1422,8 +1422,8 @@
   "taken": "2026-10-20T08:44:22",
   "offset": "-05:00",
   "gps": {
-   "lat": -13.166,
-   "lon": -72.5455,
+   "lat": -13.166036,
+   "lon": -72.545494,
    "alt": 2513.4
   },
   "camera": "Apple iPhone 15",
@@ -1444,8 +1444,8 @@
   "taken": "2026-10-20T08:55:43",
   "offset": "-05:00",
   "gps": {
-   "lat": -13.1662,
-   "lon": -72.5441,
+   "lat": -13.166236,
+   "lon": -72.544106,
    "alt": 2494.2
   },
   "camera": "Apple iPhone 16 Pro",
@@ -1491,8 +1491,8 @@
   "taken": "2026-10-20T09:09:48",
   "offset": "-05:00",
   "gps": {
-   "lat": -13.165,
-   "lon": -72.5439,
+   "lat": -13.164983,
+   "lon": -72.543861,
    "alt": 2475.1
   },
   "camera": "Apple iPhone 16 Pro",
@@ -1513,8 +1513,8 @@
   "taken": "2026-10-20T09:24:00",
   "offset": "-05:00",
   "gps": {
-   "lat": -13.1624,
-   "lon": -72.5436,
+   "lat": -13.162439,
+   "lon": -72.543625,
    "alt": 2411.9
   },
   "camera": "Apple iPhone 16 Pro",
@@ -1535,8 +1535,8 @@
   "taken": "2026-10-20T09:24:03",
   "offset": "-05:00",
   "gps": {
-   "lat": -13.1648,
-   "lon": -72.5434,
+   "lat": -13.164806,
+   "lon": -72.543428,
    "alt": 2218.5
   },
   "camera": "Apple iPhone 16 Pro",
@@ -1557,8 +1557,8 @@
   "taken": "2026-10-20T10:11:22",
   "offset": null,
   "gps": {
-   "lat": -13.1552,
-   "lon": -72.5255,
+   "lat": -13.155192,
+   "lon": -72.52555,
    "est": true,
    "estMin": 3.9
   },
@@ -1580,8 +1580,8 @@
   "taken": "2026-10-20T10:14:17",
   "offset": null,
   "gps": {
-   "lat": -13.1552,
-   "lon": -72.5255,
+   "lat": -13.155192,
+   "lon": -72.52555,
    "est": true,
    "estMin": 1.0
   },
@@ -1603,8 +1603,8 @@
   "taken": "2026-10-20T10:14:47",
   "offset": null,
   "gps": {
-   "lat": -13.1552,
-   "lon": -72.5255,
+   "lat": -13.155192,
+   "lon": -72.52555,
    "est": true,
    "estMin": 0.5
   },
@@ -1626,8 +1626,8 @@
   "taken": "2026-10-20T10:16:01",
   "offset": "-05:00",
   "gps": {
-   "lat": -13.1553,
-   "lon": -72.5255,
+   "lat": -13.155272,
+   "lon": -72.525467,
    "alt": 2046.3
   },
   "camera": "Apple iPhone 16 Pro",
@@ -1648,8 +1648,8 @@
   "taken": "2026-10-20T11:28:05",
   "offset": null,
   "gps": {
-   "lat": -13.1545,
-   "lon": -72.5233,
+   "lat": -13.154539,
+   "lon": -72.523341,
    "alt": 2106.0
   },
   "camera": "RICOH IMAGING COMPANY, LTD. RICOH GR III",
@@ -1670,8 +1670,8 @@
   "taken": "2026-10-20T11:29:31",
   "offset": null,
   "gps": {
-   "lat": -13.1548,
-   "lon": -72.5233,
+   "lat": -13.154821,
+   "lon": -72.523321,
    "alt": 2067.0
   },
   "camera": "RICOH IMAGING COMPANY, LTD. RICOH GR III",
@@ -1692,8 +1692,8 @@
   "taken": "2026-10-20T11:30:01",
   "offset": null,
   "gps": {
-   "lat": -13.1553,
-   "lon": -72.5233,
+   "lat": -13.155307,
+   "lon": -72.523304,
    "alt": 2061.7
   },
   "camera": "RICOH IMAGING COMPANY, LTD. RICOH GR III",
@@ -1714,8 +1714,8 @@
   "taken": "2026-10-20T11:30:11",
   "offset": null,
   "gps": {
-   "lat": -13.1554,
-   "lon": -72.5233,
+   "lat": -13.155356,
+   "lon": -72.52333,
    "alt": 2062.5
   },
   "camera": "RICOH IMAGING COMPANY, LTD. RICOH GR III",
@@ -1736,8 +1736,8 @@
   "taken": "2026-10-20T11:30:15",
   "offset": null,
   "gps": {
-   "lat": -13.1554,
-   "lon": -72.5233,
+   "lat": -13.155356,
+   "lon": -72.523337,
    "alt": 2062.1
   },
   "camera": "RICOH IMAGING COMPANY, LTD. RICOH GR III",
@@ -1758,8 +1758,8 @@
   "taken": "2026-10-20T11:35:19",
   "offset": null,
   "gps": {
-   "lat": -13.1554,
-   "lon": -72.5233,
+   "lat": -13.155356,
+   "lon": -72.523337,
    "alt": 2062.1
   },
   "camera": "RICOH IMAGING COMPANY, LTD. RICOH GR III",
@@ -1780,8 +1780,8 @@
   "taken": "2026-10-20T11:38:45",
   "offset": null,
   "gps": {
-   "lat": -13.1548,
-   "lon": -72.5235,
+   "lat": -13.154839,
+   "lon": -72.523488,
    "alt": 2069.5
   },
   "camera": "RICOH IMAGING COMPANY, LTD. RICOH GR III",
@@ -1802,8 +1802,8 @@
   "taken": "2026-10-20T11:41:30",
   "offset": null,
   "gps": {
-   "lat": -13.1548,
-   "lon": -72.5235,
+   "lat": -13.154839,
+   "lon": -72.523488,
    "est": true,
    "estMin": 2.7
   },
@@ -1826,7 +1826,7 @@
   "offset": "-05:00",
   "gps": {
    "lat": -13.1545,
-   "lon": -72.525,
+   "lon": -72.524964,
    "alt": 2097.9
   },
   "camera": "Apple iPhone 16 Pro",
@@ -1847,8 +1847,8 @@
   "taken": "2026-10-20T17:51:12",
   "offset": "-05:00",
   "gps": {
-   "lat": -13.2583,
-   "lon": -72.265,
+   "lat": -13.258331,
+   "lon": -72.264978,
    "alt": 2836.9
   },
   "camera": "Apple iPhone 16 Pro",
@@ -1869,8 +1869,8 @@
   "taken": "2026-10-20T18:14:24",
   "offset": "-05:00",
   "gps": {
-   "lat": -13.2583,
-   "lon": -72.265,
+   "lat": -13.258339,
+   "lon": -72.264978,
    "alt": 2833.2
   },
   "camera": "Apple iPhone 16 Pro",
@@ -1891,8 +1891,8 @@
   "taken": "2026-10-20T18:18:28",
   "offset": "-05:00",
   "gps": {
-   "lat": -13.2582,
-   "lon": -72.265,
+   "lat": -13.258244,
+   "lon": -72.264969,
    "alt": 2836.4
   },
   "camera": "Apple iPhone 16 Pro",
@@ -1913,8 +1913,8 @@
   "taken": "2026-10-21T09:10:23",
   "offset": "-05:00",
   "gps": {
-   "lat": -13.2574,
-   "lon": -72.2655
+   "lat": -13.257411,
+   "lon": -72.265525
   },
   "camera": "Apple iPhone 16 Pro",
   "lens": "iPhone 16 Pro back triple camera 6.765mm f/1.78",
@@ -1934,8 +1934,8 @@
   "taken": "2026-10-21T09:25:55",
   "offset": null,
   "gps": {
-   "lat": -13.2566,
-   "lon": -72.2649,
+   "lat": -13.256629,
+   "lon": -72.264901,
    "alt": 2846.3
   },
   "camera": "RICOH IMAGING COMPANY, LTD. RICOH GR III",
@@ -1956,8 +1956,8 @@
   "taken": "2026-10-21T09:31:49",
   "offset": null,
   "gps": {
-   "lat": -13.2569,
-   "lon": -72.2651,
+   "lat": -13.256872,
+   "lon": -72.265083,
    "est": true,
    "estMin": 0.8
   },
@@ -1979,8 +1979,8 @@
   "taken": "2026-10-21T13:39:48",
   "offset": "-05:00",
   "gps": {
-   "lat": -13.5193,
-   "lon": -71.9749,
+   "lat": -13.519328,
+   "lon": -71.974861,
    "alt": 3393.6
   },
   "camera": "Apple iPhone 16 Pro",
@@ -2001,8 +2001,8 @@
   "taken": "2026-10-21T14:46:53",
   "offset": "-05:00",
   "gps": {
-   "lat": -13.5166,
-   "lon": -71.9745,
+   "lat": -13.516572,
+   "lon": -71.974486,
    "alt": 3404.3
   },
   "camera": "Apple iPhone 16 Pro",
@@ -2023,7 +2023,7 @@
   "taken": "2026-10-21T14:49:11",
   "offset": "-05:00",
   "gps": {
-   "lat": -13.5168,
+   "lat": -13.516831,
    "lon": -71.9749,
    "alt": 3401.8
   },
@@ -2045,8 +2045,8 @@
   "taken": "2026-10-21T14:50:25",
   "offset": "-05:00",
   "gps": {
-   "lat": -13.517,
-   "lon": -71.9753,
+   "lat": -13.517003,
+   "lon": -71.975297,
    "alt": 3401.7
   },
   "camera": "Apple iPhone 16 Pro",
@@ -2067,8 +2067,8 @@
   "taken": "2026-10-21T17:42:57",
   "offset": "-05:00",
   "gps": {
-   "lat": -13.517,
-   "lon": -71.9779,
+   "lat": -13.516986,
+   "lon": -71.977858,
    "alt": 3315.3
   },
   "camera": "Apple iPhone 16 Pro",
@@ -2089,8 +2089,8 @@
   "taken": "2026-10-21T18:52:29",
   "offset": "-05:00",
   "gps": {
-   "lat": -13.5172,
-   "lon": -71.978,
+   "lat": -13.517189,
+   "lon": -71.978036,
    "alt": 3404.3
   },
   "camera": "Apple iPhone 16 Pro",
@@ -2111,8 +2111,8 @@
   "taken": "2026-10-21T18:52:39",
   "offset": "-05:00",
   "gps": {
-   "lat": -13.5171,
-   "lon": -71.978,
+   "lat": -13.517139,
+   "lon": -71.978042,
    "alt": 3404.8
   },
   "camera": "Apple iPhone 16 Pro",
@@ -2158,8 +2158,8 @@
   "taken": "2026-10-22T09:29:15",
   "offset": null,
   "gps": {
-   "lat": -13.5078,
-   "lon": -71.9883,
+   "lat": -13.507788,
+   "lon": -71.988322,
    "est": true,
    "estMin": 0.1
   },
@@ -2181,8 +2181,8 @@
   "taken": "2026-10-22T10:00:20",
   "offset": null,
   "gps": {
-   "lat": -13.5091,
-   "lon": -71.9703,
+   "lat": -13.509077,
+   "lon": -71.970289,
    "alt": 3601.1
   },
   "camera": "RICOH IMAGING COMPANY, LTD. RICOH GR III",
@@ -2203,8 +2203,8 @@
   "taken": "2026-10-22T10:07:15",
   "offset": null,
   "gps": {
-   "lat": -13.509,
-   "lon": -71.9704,
+   "lat": -13.509013,
+   "lon": -71.970414,
    "alt": 3602.1
   },
   "camera": "RICOH IMAGING COMPANY, LTD. RICOH GR III",
@@ -2225,8 +2225,8 @@
   "taken": "2026-10-22T10:08:01",
   "offset": null,
   "gps": {
-   "lat": -13.509,
-   "lon": -71.9704,
+   "lat": -13.508985,
+   "lon": -71.970367,
    "alt": 3603.2
   },
   "camera": "RICOH IMAGING COMPANY, LTD. RICOH GR III",
@@ -2247,8 +2247,8 @@
   "taken": "2026-10-22T10:19:48",
   "offset": null,
   "gps": {
-   "lat": -13.5091,
-   "lon": -71.9704,
+   "lat": -13.509107,
+   "lon": -71.970441,
    "alt": 3600.5
   },
   "camera": "RICOH IMAGING COMPANY, LTD. RICOH GR III",
@@ -2269,8 +2269,8 @@
   "taken": "2026-10-22T10:35:03",
   "offset": null,
   "gps": {
-   "lat": -13.5091,
-   "lon": -71.975,
+   "lat": -13.509107,
+   "lon": -71.975046,
    "est": true,
    "estMin": 13.1
   },
@@ -2292,8 +2292,8 @@
   "taken": "2026-10-22T10:35:57",
   "offset": null,
   "gps": {
-   "lat": -13.5091,
-   "lon": -71.9753,
+   "lat": -13.509086,
+   "lon": -71.975283,
    "est": true,
    "estMin": 14.0
   },
@@ -2315,8 +2315,8 @@
   "taken": "2026-10-22T10:41:37",
   "offset": null,
   "gps": {
-   "lat": -13.509,
-   "lon": -71.9768,
+   "lat": -13.508951,
+   "lon": -71.976774,
    "est": true,
    "estMin": 19.7
   },
@@ -2338,8 +2338,8 @@
   "taken": "2026-10-22T11:05:28",
   "offset": null,
   "gps": {
-   "lat": -13.5084,
-   "lon": -71.9831,
+   "lat": -13.508385,
+   "lon": -71.98305,
    "alt": 3584.3
   },
   "camera": "RICOH IMAGING COMPANY, LTD. RICOH GR III",
@@ -2360,8 +2360,8 @@
   "taken": "2026-10-22T11:08:53",
   "offset": null,
   "gps": {
-   "lat": -13.5087,
-   "lon": -71.9827,
+   "lat": -13.508688,
+   "lon": -71.982672,
    "alt": 3589.6
   },
   "camera": "RICOH IMAGING COMPANY, LTD. RICOH GR III",
@@ -2382,8 +2382,8 @@
   "taken": "2026-10-22T12:29:32",
   "offset": null,
   "gps": {
-   "lat": -13.4886,
-   "lon": -71.9642,
+   "lat": -13.488614,
+   "lon": -71.964247,
    "alt": 3769.3
   },
   "camera": "RICOH IMAGING COMPANY, LTD. RICOH GR III",
@@ -2404,8 +2404,8 @@
   "taken": "2026-10-22T12:29:56",
   "offset": null,
   "gps": {
-   "lat": -13.4886,
-   "lon": -71.9642,
+   "lat": -13.488614,
+   "lon": -71.964247,
    "alt": 3769.3
   },
   "camera": "RICOH IMAGING COMPANY, LTD. RICOH GR III",
@@ -2451,7 +2451,7 @@
   "taken": "2026-10-22T14:28:55",
   "offset": "-05:00",
   "gps": {
-   "lat": -13.52,
+   "lat": -13.519992,
    "lon": -71.9749
   },
   "camera": "Apple iPhone 16 Pro",
@@ -2472,8 +2472,8 @@
   "taken": "2026-10-22T14:56:16",
   "offset": "-05:00",
   "gps": {
-   "lat": -13.52,
-   "lon": -71.9749,
+   "lat": -13.519983,
+   "lon": -71.974883,
    "alt": 3389.8
   },
   "camera": "Apple iPhone 16 Pro",
@@ -2494,8 +2494,8 @@
   "taken": "2026-10-22T18:08:09",
   "offset": "-05:00",
   "gps": {
-   "lat": -13.5178,
-   "lon": -71.9771,
+   "lat": -13.517769,
+   "lon": -71.97705,
    "alt": 3385.9
   },
   "camera": "Apple iPhone 16 Pro",
@@ -2516,8 +2516,8 @@
   "taken": "2026-10-22T18:18:14",
   "offset": null,
   "gps": {
-   "lat": -13.517,
-   "lon": -71.9778,
+   "lat": -13.516996,
+   "lon": -71.977801,
    "est": true,
    "estMin": 1.1
   },
@@ -2539,8 +2539,8 @@
   "taken": "2026-10-22T18:19:26",
   "offset": "-05:00",
   "gps": {
-   "lat": -13.517,
-   "lon": -71.978,
+   "lat": -13.517017,
+   "lon": -71.978019,
    "alt": 3402.0
   },
   "camera": "Apple iPhone 16 Pro",
@@ -2561,8 +2561,8 @@
   "taken": "2026-10-22T18:19:59",
   "offset": null,
   "gps": {
-   "lat": -13.517,
-   "lon": -71.978,
+   "lat": -13.517017,
+   "lon": -71.978019,
    "est": true,
    "estMin": 0.6
   },
@@ -2584,8 +2584,8 @@
   "taken": "2026-10-22T18:21:11",
   "offset": null,
   "gps": {
-   "lat": -13.5167,
-   "lon": -71.9781,
+   "lat": -13.516729,
+   "lon": -71.978132,
    "est": true,
    "estMin": 0.3
   },
@@ -2607,8 +2607,8 @@
   "taken": "2026-10-22T18:21:28",
   "offset": null,
   "gps": {
-   "lat": -13.5167,
-   "lon": -71.9781,
+   "lat": -13.516729,
+   "lon": -71.978132,
    "alt": 3403.4
   },
   "camera": "RICOH IMAGING COMPANY, LTD. RICOH GR III",
@@ -2629,8 +2629,8 @@
   "taken": "2026-10-22T18:24:00",
   "offset": null,
   "gps": {
-   "lat": -13.5164,
-   "lon": -71.9784,
+   "lat": -13.51642,
+   "lon": -71.97838,
    "alt": 3406.0
   },
   "camera": "RICOH IMAGING COMPANY, LTD. RICOH GR III",
@@ -2651,8 +2651,8 @@
   "taken": "2026-10-22T18:25:18",
   "offset": null,
   "gps": {
-   "lat": -13.5162,
-   "lon": -71.9785,
+   "lat": -13.516195,
+   "lon": -71.978526,
    "alt": 3406.2
   },
   "camera": "RICOH IMAGING COMPANY, LTD. RICOH GR III",
@@ -2673,8 +2673,8 @@
   "taken": "2026-10-22T18:25:20",
   "offset": null,
   "gps": {
-   "lat": -13.5162,
-   "lon": -71.9785,
+   "lat": -13.516195,
+   "lon": -71.978526,
    "alt": 3406.2
   },
   "camera": "RICOH IMAGING COMPANY, LTD. RICOH GR III",
@@ -2695,8 +2695,8 @@
   "taken": "2026-10-22T18:25:33",
   "offset": null,
   "gps": {
-   "lat": -13.5162,
-   "lon": -71.9785,
+   "lat": -13.516195,
+   "lon": -71.978526,
    "alt": 3406.2
   },
   "camera": "RICOH IMAGING COMPANY, LTD. RICOH GR III",
@@ -2717,8 +2717,8 @@
   "taken": "2026-10-22T18:26:14",
   "offset": null,
   "gps": {
-   "lat": -13.5162,
-   "lon": -71.9785,
+   "lat": -13.516195,
+   "lon": -71.978526,
    "alt": 3406.2
   },
   "camera": "RICOH IMAGING COMPANY, LTD. RICOH GR III",
@@ -2739,8 +2739,8 @@
   "taken": "2026-10-22T18:28:22",
   "offset": null,
   "gps": {
-   "lat": -13.516,
-   "lon": -71.9786,
+   "lat": -13.516022,
+   "lon": -71.97858,
    "alt": 3410.3
   },
   "camera": "RICOH IMAGING COMPANY, LTD. RICOH GR III",
@@ -2761,8 +2761,8 @@
   "taken": "2026-10-22T18:36:39",
   "offset": "-05:00",
   "gps": {
-   "lat": -13.5168,
-   "lon": -71.9789,
+   "lat": -13.516811,
+   "lon": -71.978919,
    "alt": 3400.1
   },
   "camera": "Apple iPhone 16 Pro",
@@ -2808,8 +2808,8 @@
   "taken": "2026-10-24T12:39:24",
   "offset": "-05:00",
   "gps": {
-   "lat": -12.6486,
-   "lon": -69.1637,
+   "lat": -12.648558,
+   "lon": -69.16375,
    "alt": 182.8
   },
   "camera": "Apple iPhone 16 Pro",
@@ -2830,8 +2830,8 @@
   "taken": "2026-10-24T12:53:28",
   "offset": "-05:00",
   "gps": {
-   "lat": -12.6485,
-   "lon": -69.1638,
+   "lat": -12.648525,
+   "lon": -69.163758,
    "alt": 180.4
   },
   "camera": "Apple iPhone 16 Pro",
@@ -2852,8 +2852,8 @@
   "taken": "2026-10-24T12:58:34",
   "offset": "-05:00",
   "gps": {
-   "lat": -12.6486,
-   "lon": -69.1638,
+   "lat": -12.64855,
+   "lon": -69.163789,
    "alt": 183.0
   },
   "camera": "Apple iPhone 16 Pro",
@@ -2874,8 +2874,8 @@
   "taken": "2026-10-24T13:14:07",
   "offset": "-05:00",
   "gps": {
-   "lat": -12.6485,
-   "lon": -69.1638,
+   "lat": -12.648536,
+   "lon": -69.163764,
    "alt": 182.4
   },
   "camera": "Apple iPhone 16 Pro",
@@ -2896,8 +2896,8 @@
   "taken": "2026-10-24T16:38:28",
   "offset": null,
   "gps": {
-   "lat": -12.6485,
-   "lon": -69.1638,
+   "lat": -12.648461,
+   "lon": -69.163794,
    "est": true,
    "estMin": 4.7
   },
@@ -2919,8 +2919,8 @@
   "taken": "2026-10-24T16:42:34",
   "offset": null,
   "gps": {
-   "lat": -12.6485,
-   "lon": -69.1638,
+   "lat": -12.648461,
+   "lon": -69.163794,
    "est": true,
    "estMin": 0.6
   },
@@ -2942,8 +2942,8 @@
   "taken": "2026-10-24T16:43:09",
   "offset": "-05:00",
   "gps": {
-   "lat": -12.6485,
-   "lon": -69.1638,
+   "lat": -12.648461,
+   "lon": -69.163794,
    "alt": 184.2
   },
   "camera": "Apple iPhone 16 Pro",
@@ -2964,8 +2964,8 @@
   "taken": "2026-10-24T17:27:54",
   "offset": "-05:00",
   "gps": {
-   "lat": -12.6588,
-   "lon": -69.1704,
+   "lat": -12.65885,
+   "lon": -69.170425,
    "alt": 170.4
   },
   "camera": "Apple iPhone 16 Pro",
@@ -2986,8 +2986,8 @@
   "taken": "2026-10-24T17:30:07",
   "offset": "-05:00",
   "gps": {
-   "lat": -12.6588,
-   "lon": -69.1706,
+   "lat": -12.658789,
+   "lon": -69.170647,
    "alt": 169.5
   },
   "camera": "Apple iPhone 16 Pro",
@@ -3058,8 +3058,8 @@
   "taken": "2026-10-24T17:40:20",
   "offset": null,
   "gps": {
-   "lat": -12.6584,
-   "lon": -69.1722,
+   "lat": -12.658362,
+   "lon": -69.172194,
    "alt": 168.5
   },
   "camera": "RICOH IMAGING COMPANY, LTD. RICOH GR III",
@@ -3080,8 +3080,8 @@
   "taken": "2026-10-24T17:43:50",
   "offset": null,
   "gps": {
-   "lat": -12.6584,
-   "lon": -69.1722,
+   "lat": -12.658362,
+   "lon": -69.172194,
    "alt": 168.5
   },
   "camera": "RICOH IMAGING COMPANY, LTD. RICOH GR III",
@@ -3102,8 +3102,8 @@
   "taken": "2026-10-24T18:35:51",
   "offset": "-05:00",
   "gps": {
-   "lat": -12.6611,
-   "lon": -69.1561,
+   "lat": -12.661081,
+   "lon": -69.156106,
    "alt": 170.3
   },
   "camera": "Apple iPhone 16 Pro",
@@ -3149,8 +3149,8 @@
   "taken": "2026-10-24T19:17:50",
   "offset": "-05:00",
   "gps": {
-   "lat": -12.6486,
-   "lon": -69.1638,
+   "lat": -12.64855,
+   "lon": -69.163811,
    "alt": 177.4
   },
   "camera": "Apple iPhone 16 Pro",
@@ -3171,8 +3171,8 @@
   "taken": "2026-10-25T05:05:36",
   "offset": "-05:00",
   "gps": {
-   "lat": -12.6482,
-   "lon": -69.1635,
+   "lat": -12.648206,
+   "lon": -69.163497,
    "alt": 179.2
   },
   "camera": "Apple iPhone 16 Pro",
@@ -3218,8 +3218,8 @@
   "taken": "2026-10-25T05:15:06",
   "offset": null,
   "gps": {
-   "lat": -12.6254,
-   "lon": -69.1866,
+   "lat": -12.625389,
+   "lon": -69.186562,
    "alt": 167.1
   },
   "camera": "RICOH IMAGING COMPANY, LTD. RICOH GR III",
@@ -3240,8 +3240,8 @@
   "taken": "2026-10-25T05:46:25",
   "offset": "-05:00",
   "gps": {
-   "lat": -12.5983,
-   "lon": -69.0694,
+   "lat": -12.598314,
+   "lon": -69.069397,
    "alt": 175.2
   },
   "camera": "Apple iPhone 16 Pro",
@@ -3287,8 +3287,8 @@
   "taken": "2026-10-25T05:53:39",
   "offset": "-05:00",
   "gps": {
-   "lat": -12.5985,
-   "lon": -69.0691,
+   "lat": -12.598458,
+   "lon": -69.069114,
    "alt": 187.1
   },
   "camera": "Apple iPhone 16 Pro",
@@ -3309,8 +3309,8 @@
   "taken": "2026-10-25T05:58:40",
   "offset": null,
   "gps": {
-   "lat": -12.5988,
-   "lon": -69.069,
+   "lat": -12.598782,
+   "lon": -69.069017,
    "alt": 181.8
   },
   "camera": "RICOH IMAGING COMPANY, LTD. RICOH GR III",
@@ -3331,8 +3331,8 @@
   "taken": "2026-10-25T05:59:29",
   "offset": null,
   "gps": {
-   "lat": -12.5997,
-   "lon": -69.0689,
+   "lat": -12.59969,
+   "lon": -69.068852,
    "alt": 183.3
   },
   "camera": "RICOH IMAGING COMPANY, LTD. RICOH GR III",
@@ -3353,8 +3353,8 @@
   "taken": "2026-10-25T06:10:43",
   "offset": null,
   "gps": {
-   "lat": -12.5999,
-   "lon": -69.0688,
+   "lat": -12.59986,
+   "lon": -69.068822,
    "alt": 184.8
   },
   "camera": "RICOH IMAGING COMPANY, LTD. RICOH GR III",
@@ -3375,8 +3375,8 @@
   "taken": "2026-10-25T06:22:32",
   "offset": "-05:00",
   "gps": {
-   "lat": -12.6024,
-   "lon": -69.0661,
+   "lat": -12.602431,
+   "lon": -69.066056,
    "alt": 192.1
   },
   "camera": "Apple iPhone 16 Pro",
@@ -3420,8 +3420,8 @@
   "taken": "2026-10-25T06:31:18",
   "offset": null,
   "gps": {
-   "lat": -12.6025,
-   "lon": -69.0643,
+   "lat": -12.602495,
+   "lon": -69.064336,
    "alt": 187.4
   },
   "camera": "RICOH IMAGING COMPANY, LTD. RICOH GR III",
@@ -3442,8 +3442,8 @@
   "taken": "2026-10-25T06:39:57",
   "offset": "-05:00",
   "gps": {
-   "lat": -12.6044,
-   "lon": -69.0597,
+   "lat": -12.604444,
+   "lon": -69.059708,
    "alt": 185.5
   },
   "camera": "Apple iPhone 16 Pro",
@@ -3489,8 +3489,8 @@
   "taken": "2026-10-25T07:23:07",
   "offset": "-05:00",
   "gps": {
-   "lat": -12.6093,
-   "lon": -69.0474,
+   "lat": -12.609258,
+   "lon": -69.047356,
    "alt": 179.9
   },
   "camera": "Apple iPhone 16 Pro",
@@ -3511,8 +3511,8 @@
   "taken": "2026-10-25T07:23:43",
   "offset": null,
   "gps": {
-   "lat": -12.6093,
-   "lon": -69.0472,
+   "lat": -12.609266,
+   "lon": -69.047195,
    "alt": 180.2
   },
   "camera": "RICOH IMAGING COMPANY, LTD. RICOH GR III",
@@ -3608,8 +3608,8 @@
   "taken": "2026-10-25T07:57:18",
   "offset": "-05:00",
   "gps": {
-   "lat": -12.61,
-   "lon": -69.0436,
+   "lat": -12.609997,
+   "lon": -69.043578,
    "alt": 178.0
   },
   "camera": "Apple iPhone 16 Pro",
@@ -3630,8 +3630,8 @@
   "taken": "2026-10-25T08:11:36",
   "offset": "-05:00",
   "gps": {
-   "lat": -12.6107,
-   "lon": -69.0409,
+   "lat": -12.610719,
+   "lon": -69.040878,
    "alt": 179.7
   },
   "camera": "Apple iPhone 16 Pro",
@@ -3652,7 +3652,7 @@
   "taken": "2026-10-25T09:31:57",
   "offset": "-05:00",
   "gps": {
-   "lat": -12.6045,
+   "lat": -12.604525,
    "lon": -69.0596,
    "alt": 187.2
   },
@@ -3674,8 +3674,8 @@
   "taken": "2026-10-25T09:50:11",
   "offset": "-05:00",
   "gps": {
-   "lat": -12.6023,
-   "lon": -69.0636,
+   "lat": -12.602289,
+   "lon": -69.063606,
    "alt": 186.5
   },
   "camera": "Apple iPhone 16 Pro",
@@ -3696,8 +3696,8 @@
   "taken": "2026-10-25T09:57:25",
   "offset": "-05:00",
   "gps": {
-   "lat": -12.6024,
-   "lon": -69.0662,
+   "lat": -12.602381,
+   "lon": -69.066231,
    "est": true,
    "estMin": 0.0
   },
@@ -3719,8 +3719,8 @@
   "taken": "2026-10-25T09:57:29",
   "offset": "-05:00",
   "gps": {
-   "lat": -12.6024,
-   "lon": -69.0662,
+   "lat": -12.602422,
+   "lon": -69.066231,
    "alt": 203.7
   },
   "camera": "Apple iPhone 16 Pro",
@@ -3742,7 +3742,7 @@
   "offset": "-05:00",
   "gps": {
    "lat": -12.6023,
-   "lon": -69.0665,
+   "lon": -69.066458,
    "alt": 202.3
   },
   "camera": "Apple iPhone 16 Pro",
@@ -3763,8 +3763,8 @@
   "taken": "2026-10-25T10:12:23",
   "offset": "-05:00",
   "gps": {
-   "lat": -12.5999,
-   "lon": -69.0688,
+   "lat": -12.599869,
+   "lon": -69.068847,
    "alt": 193.8
   },
   "camera": "Apple iPhone 16 Pro",
@@ -3785,8 +3785,8 @@
   "taken": "2026-10-25T10:15:59",
   "offset": "-05:00",
   "gps": {
-   "lat": -12.5998,
-   "lon": -69.0688,
+   "lat": -12.599778,
+   "lon": -69.068847,
    "alt": 182.5
   },
   "camera": "Apple iPhone 16 Pro",
@@ -3807,8 +3807,8 @@
   "taken": "2026-10-25T13:14:43",
   "offset": "-05:00",
   "gps": {
-   "lat": -12.6493,
-   "lon": -69.1632,
+   "lat": -12.649303,
+   "lon": -69.163247,
    "alt": 180.2
   },
   "camera": "Apple iPhone 16 Pro",
@@ -3829,8 +3829,8 @@
   "taken": "2026-10-25T13:14:49",
   "offset": "-05:00",
   "gps": {
-   "lat": -12.6493,
-   "lon": -69.1632,
+   "lat": -12.649306,
+   "lon": -69.163247,
    "alt": 181.9
   },
   "camera": "Apple iPhone 16 Pro",
@@ -3851,8 +3851,8 @@
   "taken": "2026-10-25T17:01:42",
   "offset": "-05:00",
   "gps": {
-   "lat": -12.6493,
-   "lon": -69.1633,
+   "lat": -12.649267,
+   "lon": -69.163278,
    "alt": 180.2
   },
   "camera": "Apple iPhone 16 Pro",
@@ -3923,8 +3923,8 @@
   "taken": "2026-10-25T18:20:18",
   "offset": "-05:00",
   "gps": {
-   "lat": -12.6492,
-   "lon": -69.163,
+   "lat": -12.649228,
+   "lon": -69.162994,
    "alt": 181.2
   },
   "camera": "Apple iPhone 16 Pro",
@@ -3945,8 +3945,8 @@
   "taken": "2026-10-25T18:56:03",
   "offset": "-05:00",
   "gps": {
-   "lat": -12.6503,
-   "lon": -69.1652,
+   "lat": -12.650308,
+   "lon": -69.165178,
    "alt": 181.5
   },
   "camera": "Apple iPhone 16 Pro",
