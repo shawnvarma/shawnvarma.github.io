@@ -78,7 +78,7 @@ function setTimelineActive(k) {
 function renderDays() {
   $("#days").innerHTML = dayKeys.map((k) => {
     const ps = days[k];
-    return `<a class="daycard" data-k="${k}" href="#/day/${k}"><div class="cover" style="background-image:url('${ps[0].thumb}')"><div class="shade"></div>` +
+    return `<a class="daycard" data-k="${k}" href="#/day/${k}"><div class="cover" style="background-image:url('${(ps.find((q) => q.id === store.days[k]?.cover) || ps[0]).thumb}')"><div class="shade"></div>` +
       `<span class="count">${countLabel(ps)}</span><div class="place"></div></div>` +
       `<div class="meta"><b>${dayLabel(k, { weekday: "long", month: "long", day: "numeric" })}</b><span class="sub">${dayLabel(k, { year: "numeric" })}</span>` +
       `<div class="chips"></div><p class="story"></p></div></a>`;
